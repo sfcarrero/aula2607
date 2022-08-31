@@ -5,7 +5,7 @@ font-size: 20px;
 color: rgb(21, 163, 163);
 border: 5px solid black; 
 padding: 10px; margin: 10px;}
-#logo { height: 200px;width: 200px; } 
+#logo { height: 300px;width: 300px; } 
 p { text-align: center;
 font-size: 16px; 
 }
@@ -15,4 +15,4 @@ color: rgb(104, 33, 33);}
 
 
 
-#imagemdalista {width: 2%;}
+#imagemdalista {width: 3px;}
