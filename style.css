@@ -12,9 +12,8 @@ font-size: 16px;
 h2 {text-align: center; 
 	font-size: 30px;
 color: rgb(104, 33, 33);}
-ul {itens: inline;
-    padding: 50px;
-    vertical-align: top;
-}
+
+
 
 #imagemdalista {width: 30%;}
+}
